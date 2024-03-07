@@ -7,6 +7,15 @@
 
 
 
+img{
+    width: 50%;
+}
+
+main > p {
+
+    width: 50%;
+    
+}
 
 
 header > h1 {
